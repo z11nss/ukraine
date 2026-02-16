@@ -61,7 +61,7 @@ header {
 .header_item1 {
     width: 80%;
     height: 464px;
-    background: url(/img/header.png);
+    background: url(../img/header.png);
     background-size: 100% 100%;
 }
 
